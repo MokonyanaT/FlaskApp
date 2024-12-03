@@ -1,0 +1,6 @@
+Flask==2.1.1
+Flask-Login==0.5.0
+Flask-WTF==1.0.1
+pandas==1.4.2
+sqlalchemy==1.4.31
+wfastcgi==3.0.0
